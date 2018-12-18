@@ -27,3 +27,26 @@ body {
   overflow: hidden;
   border: 0;
 }
+
+/* Logo */
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo-icon__top {
+  fill: var(--color-stone-066);
+}
+
+.logo-icon__center {
+  fill: var(--color-alarm-087);
+}
+
+.logo-icon__bottom {
+  fill: var(--color-alarm-067);
+}
+
+.logo-logotype {
+  margin-left: 32px;
+  fill: var(--color-alarm-094);
+}
