@@ -12,6 +12,8 @@ body {
   margin: 0;
   padding: 64px;
   display: flex;
+  flex-direction: column;
+  align-items: center;
   justify-content: center;
   background-color: var(--color-umber-015);
 }
@@ -28,21 +30,27 @@ body {
   border: 0;
 }
 
+/* Icons */
+.icon-chevron {
+  margin-bottom: 64px;
+  fill: var(--color-alarm-094);
+}
+
 /* Logo */
 .logo {
   display: flex;
   align-items: center;
 }
 
-.logo-icon__top {
+.logo-icon__icon--top {
   fill: var(--color-stone-066);
 }
 
-.logo-icon__center {
+.logo-icon__icon--center {
   fill: var(--color-alarm-087);
 }
 
-.logo-icon__bottom {
+.logo-icon__icon--bottom {
   fill: var(--color-alarm-067);
 }
 
