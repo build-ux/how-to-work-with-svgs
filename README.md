@@ -1,6 +1,8 @@
 # How to Work with SVGs
 
-A [Build UX](https://www.youtube.com/channel/UCHTt4tr25_wdGiJQcKD8wzA) tutorial on how to work with SVGs in Figma, HTML, and CSS.
+A [Build UX](https://www.youtube.com/buildux) tutorial on how to work with SVGs in Figma, HTML, and CSS.
+
+[Watch the tutorial video](https://www.youtube.com/watch?v=R0oz8DsxeYU).
 
 ## Resources
 
